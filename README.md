@@ -1,2 +1,4 @@
-# rc-files
+Description
+-----------
+
 Collection of Linux configuration files.
