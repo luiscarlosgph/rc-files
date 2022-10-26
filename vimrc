@@ -5,3 +5,4 @@ set expandtab
 set ruler
 set ai
 :imap jk <Esc>
+set colorcolumn=80
